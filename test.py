@@ -82,4 +82,4 @@ def format_name(name, age):
 
 def format_price(item, price):
     return (f"Item: {item} costs ${price}")
-print(format_price("Kota",67))
+# print(format_price("Apple",5))
