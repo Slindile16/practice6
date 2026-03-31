@@ -3,7 +3,7 @@ def count_items(data):
     for i in data:
         total += 1
     return total
-# print(count_items(["sli","ntsako","bongane","lebo"]))
+print(count_items(["sli","ntsako","bongane","lebo"]))
 
 
 
